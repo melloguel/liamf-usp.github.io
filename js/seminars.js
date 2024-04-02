@@ -67,6 +67,9 @@ function nextSeminar(S) {
 // The elements in the third dimension are, in order, poster filename, seminar title, speaker name,
 // year, month and day the seminar took place.
 const S = [
+  ["seminario_poorva.pdf",
+   "HyBit: Bit Blasting for Hybrid Probabilistic Programs",
+   "Poorva Garg", 2024, 4, 5],
   ["seminario_renata.pdf",
    "Como mudar suas crenças?",
    "Renata Wassermann", 2024, 3, 22],
