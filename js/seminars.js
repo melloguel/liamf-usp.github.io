@@ -67,6 +67,12 @@ function nextSeminar(S) {
 // The elements in the third dimension are, in order, poster filename, seminar title, speaker name,
 // year, month and day the seminar took place.
 const S = [
+  ["seminario_oliver.pdf",
+    "Polynomial Semantics of Tractable Probabilistic Circuits",
+    "Oliver Broadrick", 2024, 5, 17],
+  ["seminario_jonas.pdf",
+    "Circuitos: uma jornada de autômatos até aplicações em Redes Neurais",
+    "Jonas Rodrigues", 2024, 5, 3],
   ["seminario_portella.pdf",
    "Buscando tamanhos de passo por coordenada com Multidimensional Backtracking",
    "Victor S. Portella", 2024, 4, 19],
