@@ -67,6 +67,9 @@ function nextSeminar(S) {
 // The elements in the third dimension are, in order, poster filename, seminar title, speaker name,
 // year, month and day the seminar took place.
 const S = [
+    ["seminario_luana.pdf",
+     "Como Detectar Erros em Tempo de Compilação com Abstract Interpretation",
+     "Luana Martins", 2024, 6, 14],
   ["seminario_oliver.pdf",
     "Polynomial Semantics of Tractable Probabilistic Circuits",
     "Oliver Broadrick", 2024, 5, 17],
