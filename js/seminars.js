@@ -67,6 +67,9 @@ function nextSeminar(S) {
 // The elements in the third dimension are, in order, poster filename, seminar title, speaker name,
 // year, month and day the seminar took place.
 const S = [
+    ["seminario_zhe.pdf",
+     "Neurosymbolic Learning and Reasoning for Trustworthy AI",
+     "Zhe Zeng", 2024, 8, 30],
     ["seminario_bruna.pdf",
      "Inferência Causal Utilizando Grandes Modelos de Linguagem",
      "Bruna Bazaluk", 2024, 8, 16],
